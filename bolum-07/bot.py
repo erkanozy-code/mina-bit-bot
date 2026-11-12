@@ -13,5 +13,5 @@ def fiyat_oku():
 
 while True:
     fiyat = fiyat_oku()
-    print("Bitcoin şu an:", round(fiyat), "dolar")
+    print("Bitcoin şu an:", round(fiyat, 2), "dolar")
     time.sleep(10)  # 10 sn bekle
