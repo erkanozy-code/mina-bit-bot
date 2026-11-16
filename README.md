@@ -9,6 +9,7 @@ YouTube'daki **Bit ile Bot Yapıyorum** serisinin kodları. Hiç kod bilmeyen bi
 | Bölüm | Konu | Dosya |
 |---|---|---|
 | 7 | Botun gözleri: Bitcoin fiyatını internetten okumak | [bolum-07/bot.py](bolum-07/bot.py) |
+| 8 | Botun beyni: son 100 günün ortalaması, güneşli mi yağmurlu mu? | [bolum-08/beyin.py](bolum-08/beyin.py) |
 
 ## Nasıl çalıştırılır?
 
